@@ -2,8 +2,8 @@
 ![HHHKJH](https://user-images.githubusercontent.com/88341460/190705926-a9f705dc-8428-495b-9922-adc7cfb75c02.jpg)
 # kali Linux
        sudo apt install python3-pip
-       git clone 
+       git clone https://github.com/akashblackhat/facebook_hack.git
        ls
        cd facebook_hack.py
        pip3 install -r requirements.txt
-       python3 fbbrute.py
+       python3 facebook_hack.py
