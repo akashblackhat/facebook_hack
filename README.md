@@ -12,11 +12,11 @@
 # Termux-facebook-bruteforce_attack
 ![kali linux1](https://user-images.githubusercontent.com/88341460/190720710-b063a65e-3e59-4070-9919-9e9c41015f72.jpg)
 
-       apt update
-       apt install git
-       apt install python3
-       apt install pip
-       apt install python
+       pkg update
+       pkg install git
+       pkg install python3
+       pkg install pip
+       pkg install python
        git clone https://github.com/akashblackhat/facebook_hack.git
        ls
        cd facebook_hack
