@@ -18,7 +18,7 @@ print('''\033[91m
 
    *  Author  : Akash Black Hat
    *  GitHub  : https://github.com/akashblackhat
-   *  whatsapp: +91 8389220949
+   *  whatsapp: +91 8389020949
    *  YouTub  : TECHNICAL AKASH SKILLS
    *  FacebooK: https://shorturl.at/MO019
    *  License : MIT         
